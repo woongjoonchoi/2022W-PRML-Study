@@ -18,19 +18,20 @@ CAU DSLAB 겨울 학술 스터디중 PRML 스터디입니다.
 ### 발표
 |       Date       | Week | Topic | Presenters | Material |
 |:----------------:|:------:|:----------------------------------------:|:----------:|:------:|
-| 2022-01-06 | 1  | 1. 소개(Introduction), 2. 확률분포(Probability Distribution) | 김상렬 | |
-| 2022-01-13 | 2  | 3. 선형회귀모델(Linear Models for Regression) |  | |
-| 2022-01-20 | 3  | 4. 선형분류모델(Linear Models for Classification)  |  | |
-| 2022-01-27 | 4  | 5. 뉴럴 네트워크(Neural Networks) |  | |
-| 2022-02-03 | 5  | 6. 커널 방법론(Kernel Methods) |  | |
-| 2022-02-10 | 6  | 7. 희박한 커널 머신(Sparse Kernel Machines) |  | |
-| 2022-02-17 | 7  | 8. 그래프 모델(Graphical Models) |  | |
-| 2022-02-24 | 8  | 9. 혼합 모델과 EM(Mixture Models and EM) |  | |
-| 2022-03-03 | 9  | 10. 근사 추정(Approximate Inference) |  | |
-| 2022-03-10 | 10  | 11. 표집법(Sampling Methods) |  | |
-| 2022-03-17 | 11  | 12. 연속 잠재 변수(Continuous Latent Variables) |  | |
-| 2022-03-24 | 12  | 13. 순차 데이터(Sequential Data) |  | |
-| 2022-03-31 | 13  | 14. 모델 조합(Combining Models) |  | |
+| 2022-01-06 | 1  | 1. 소개(Introduction) | 김상렬 | [materials](./materials/chap1)|
+| 2022-01-13 | 2  | 2. 확률분포(Probability Distribution) | 김상렬 | |
+| 2022-01-20 | 3  | 3. 선형회귀모델(Linear Models for Regression) | 정동인 | |
+| 2022-01-27 | 4  | 4. 선형분류모델(Linear Models for Classification)  | 장준영 | |
+| 2022-02-03 | 5  | 5. 뉴럴 네트워크(Neural Networks) | 강성민 | |
+| 2022-02-10 | 6  | 6. 커널 방법론(Kernel Methods) |  | |
+| 2022-02-17 | 7  | 7. 희박한 커널 머신(Sparse Kernel Machines) |  | |
+| 2022-02-24 | 8  | 8. 그래프 모델(Graphical Models) |  | |
+| 2022-03-03 | 9  | 9. 혼합 모델과 EM(Mixture Models and EM) |  | |
+| 2022-03-10 | 10 | 10. 근사 추정(Approximate Inference) |  | |
+| 2022-03-17 | 11  | 11. 표집법(Sampling Methods) |  | |
+| 2022-03-24 | 12  | 12. 연속 잠재 변수(Continuous Latent Variables) |  | |
+| 2022-03-31 | 13  | 13. 순차 데이터(Sequential Data) |  | |
+| 2022-04-07 | 14  | 14. 모델 조합(Combining Models) |  | |
 
 
 ### 참고자료
@@ -39,7 +40,10 @@ CAU DSLAB 겨울 학술 스터디중 PRML 스터디입니다.
 * Chapter 2 : https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/prml-slides-2.pdf
 * Chapter 3 : https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/prml-slides-3.pdf
 * Chapter 8 : https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/prml-slides-8.pdf
-
-* https://lear.inrialpes.fr/~jegou/bishopreadinggroup/
-
+* Whole Chapter : https://lear.inrialpes.fr/~jegou/bishopreadinggroup/
+* 정오표(영문) : 
+* 연습문제 Solution : https://github.com/zhengqigao/PRML-Solution-Manual
+* 보조 코드 : 
+    * https://github.com/gerdm/prml
+    * https://github.com/ctgk/PRML
 
